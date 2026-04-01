@@ -9,6 +9,6 @@ My main tech stack includes **Next.js, Node.js, Express, TypeScript, Prisma and 
 
 One project I’m really proud of is [Eventra](https://github.com/mirajkc/Eventra) — it’s a project that showcases my skills and passion for full-stack development.
 
-I have created **many projects** and I love learning new tools and technologies along the way.
+I've created **many projects** and I love learning new tools and technologies along the way.
 
 **Hobbies:** coding, anime, gaming, and exploring new techs 
