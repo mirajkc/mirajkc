@@ -13,4 +13,3 @@ I've created **many projects** and I love learning new tools and technologies al
 
 **Hobbies:** coding, anime, gaming, and exploring new techs 
 
-![](https://komarev.com/ghpvc/?username=mirajkc)
