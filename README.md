@@ -12,3 +12,5 @@ One project I’m really proud of is [Eventra](https://github.com/mirajkc/Eventr
 I've created **many projects** and I love learning new tools and technologies along the way.
 
 **Hobbies:** coding, anime, gaming, and exploring new techs 
+
+![](https://komarev.com/ghpvc/?username=mirajkc)
